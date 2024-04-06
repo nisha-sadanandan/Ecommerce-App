@@ -1,0 +1,39 @@
+.foot{
+    background-color: rgb(8, 8, 8);
+
+}
+
+.slogan{color: rgb(201, 232, 130);
+   }
+
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.contact{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+    cursor: pointer;
+}
+
+h5{color: aliceblue;
+  text-align: center;
+  margin-bottom:1rem ;}
+
+
+ .us li{color: aliceblue;
+     list-style-type: none;
+     margin-left:700px;
+     margin-bottom: 1rem;
+     cursor: pointer;
+     } 
+
+
+

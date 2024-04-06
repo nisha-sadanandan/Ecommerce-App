@@ -1,0 +1,35 @@
+
+.item{
+  display: inline-block;
+  margin-left:20px;  
+  cursor: pointer; 
+  margin-bottom: 2rem;
+}
+
+.prices{ display: flex;
+  flex-direction: row;
+  gap:5px;
+  align-items: center;}
+
+.new-prices{ font-size:x-large;
+ 
+}
+
+.old-prices{font-size:small;
+margin-top:15px;
+text-decoration: line-through;}
+
+.description{margin-left: 2rem;}
+
+.add-to-cart{
+  padding:3px;
+  border: none;
+  border-radius:3px;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+
+
+
+
